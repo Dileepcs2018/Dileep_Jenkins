@@ -8,8 +8,8 @@ for l in ls:
     else:
         ls2.append(l)
 
-print(ls1)
-print(ls2)
+print("List1 of output ", ls1)
+print("List2 of output ", ls2)
 
 output = ls1+ls2
 print(output)
